@@ -1,0 +1,1 @@
+import{k as e}from"./query-JRYzFy4u.js";import{f as t}from"./ui-DPwNoxoP.js";import{t as n}from"./jsx-runtime-BVQXJMCF.js";var r=n();function i({className:n=``}){let i=e();return(0,r.jsx)(`span`,{className:n,"data-contatto-piani":!0,children:i?t(`abbonamento.contatta_con`,{contatto:i}):t(`abbonamento.contatta`)})}export{i as t};
