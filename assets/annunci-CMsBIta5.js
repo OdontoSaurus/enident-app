@@ -1,0 +1,1 @@
+import{r as e}from"./piattaforma-BvmmOfnm.js";var t=e()(()=>({testo:``,numero:0}));function n(e){t.setState(t=>({testo:e,numero:t.numero+1}))}export{t as n,n as t};
